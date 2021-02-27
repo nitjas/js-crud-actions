@@ -7,6 +7,44 @@
       "color": "orange",
       "id": "0124081a-4daa-425a-bb40-d5c016893fe3",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Risus quis varius quam quisque. Quis risus sed vulputate odio. Ultrices eros in cursus turpis. Est velit egestas dui id ornare arcu. Sem fringilla ut morbi tincidunt augue interdum velit euismod. Dictumst quisque sagittis purus sit amet volutpat. Sed libero enim sed faucibus turpis in eu. Dui vivamus arcu felis bibendum ut tristique et egestas."
+    },
+    {
+      "name": "Rugged Hiking Boots",
+      "price": 55.99,
+      "quantity": 25,
+      "id": "81155701-6841-4f0a-b430-2a646d024bb3"
+    },
+    {
+      "name": "Camping Tent",
+      "price": "259.99",
+      "quantity": "10",
+      "description": "For nights under starry skies",
+      "color": "Tijucan Blue",
+      "id": "a02b1cce-b075-46e8-a9af-101f2c51999e"
+    },
+    {
+      "name": "Hiking Boots",
+      "price": "75.00",
+      "quantity": "5",
+      "description": "These are great",
+      "color": "brown",
+      "id": "f7d09b9e-169b-452b-97f1-5ec69b03ce4b"
+    },
+    {
+      "name": "Kayak",
+      "price": "300.00",
+      "quantity": "3",
+      "description": "They float!",
+      "color": "blue",
+      "id": "b2762f64-e609-4db9-856d-2b97d313a8ce"
+    },
+    {
+      "name": "123123",
+      "price": "12312312",
+      "quantity": "312312312",
+      "description": "3123123123",
+      "color": "12312",
+      "id": "62ff4fc2-368a-4eb5-b4aa-e9efbab5a27b"
     }
   ]
 }
