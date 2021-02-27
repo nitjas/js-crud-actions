@@ -37,14 +37,6 @@
       "description": "They float!",
       "color": "blue",
       "id": "b2762f64-e609-4db9-856d-2b97d313a8ce"
-    },
-    {
-      "name": "123123",
-      "price": "12312312",
-      "quantity": "312312312",
-      "description": "3123123123",
-      "color": "12312",
-      "id": "62ff4fc2-368a-4eb5-b4aa-e9efbab5a27b"
     }
   ]
 }
